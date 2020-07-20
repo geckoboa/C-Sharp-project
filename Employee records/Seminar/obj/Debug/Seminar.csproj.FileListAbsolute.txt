@@ -1,0 +1,12 @@
+c:\users\nik titanik\documents\visual studio 2015\Projects\Seminar\Seminar\bin\Debug\Seminar.exe.config
+c:\users\nik titanik\documents\visual studio 2015\Projects\Seminar\Seminar\bin\Debug\Seminar.exe
+c:\users\nik titanik\documents\visual studio 2015\Projects\Seminar\Seminar\bin\Debug\Seminar.pdb
+c:\users\nik titanik\documents\visual studio 2015\Projects\Seminar\Seminar\obj\Debug\Seminar.csprojResolveAssemblyReference.cache
+c:\users\nik titanik\documents\visual studio 2015\Projects\Seminar\Seminar\obj\Debug\Seminar.exe
+c:\users\nik titanik\documents\visual studio 2015\Projects\Seminar\Seminar\obj\Debug\Seminar.pdb
+C:\Users\Korisnik\Desktop\c#\Seminar\Seminar\bin\Debug\Seminar.exe.config
+C:\Users\Korisnik\Desktop\c#\Seminar\Seminar\obj\Debug\Seminar.exe
+C:\Users\Korisnik\Desktop\c#\Seminar\Seminar\obj\Debug\Seminar.pdb
+C:\Users\Korisnik\Desktop\c#\Employee records\Seminar\bin\Debug\Seminar.exe.config
+C:\Users\Korisnik\Desktop\c#\Employee records\Seminar\obj\Debug\Seminar.exe
+C:\Users\Korisnik\Desktop\c#\Employee records\Seminar\obj\Debug\Seminar.pdb
